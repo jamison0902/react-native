@@ -1,11 +1,13 @@
 ## Projeto React Navive
 
-Este projeto tem o objetivo de trabalhar os conceitos do React Native na implementação de funcionalidades de entrada de texto em um componente React Native, componente de Lista Dinâmica e componentes React Native para exibir informações de forma dinâmica em listas.
+Este projeto tem o objetivo de trabalhar os conceitos do React Native na implementação de funcionalidades de entrada de texto e exibição de informações de forma dinâmica em listas.
 
 ## Recursos
 
 - Linguagem de programação JSX e TypeScript; 
 - Node v20.11.0;
+- JDK 17
+- Android Studio 2023.1.1
 - React-Native v0.72.6; 
 - Versionado através do Git / Github; 
 
