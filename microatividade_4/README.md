@@ -1,4 +1,4 @@
-## Aplicativo Listagem Informações
+## Aplicativo de Listagem Informações
 
 Aplicativo de listagem de informações
 
