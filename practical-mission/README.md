@@ -2,18 +2,18 @@
 
 Aplicativo de cadastro básico com listagem dinamica
 
-<hr>
-
 ![image](pratical_mission.png)
 
 <hr>
 
-Foi utilizado os seguintes Endpoints:
+Procedimentos para utilizar o aplicativo:
 
 ```
-GET - processos/ecarta
-GET - processos/ecarta/id
-PUT - processos/ecarta
+
+npm install
+npm start
+Aperta a letra 'a' para abrir no dispositivo virtual configurado 
+
 ```
 <hr>
 
