@@ -7,8 +7,8 @@
 Procedimentos para utilizar o aplicativo:
 
 ```
-npm install
-npm start
+flutter pub get
+flutter run
 
 ```
 <hr>
